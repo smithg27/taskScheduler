@@ -16,7 +16,8 @@
     <body>
         <div id="app">
             <div class="container">
-                <example-component></example-component>
+                <taskinput></taskinput>
+                <showtask></showtask>
             </div>
         </div>
         <script src="{{ mix('js/app.js') }}"></script>
